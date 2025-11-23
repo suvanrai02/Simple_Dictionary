@@ -1,5 +1,4 @@
-## Project Title
-Word Manager – Simple Dictionary Storage Tool
+## Simple Dictionary Storage Tool
 
 ## Overview of the Project
 This project allows users to store words along with their meanings and tags in a CSV file. Users can add new words, search existing ones, and view the full list. It is a beginner-friendly console application based on Python file handling and CSV processing.
